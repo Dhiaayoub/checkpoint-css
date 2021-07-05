@@ -1,0 +1,104 @@
+
+body{
+    /* ligne 1 mte3 imgae cover avec url  */
+    background-image: url('https://images.pexels.com/photos/19670/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+    /* bich el tswira tb9ach tet3awed */
+    background-repeat: no-repeat, repeat;
+    /* bich tswira tkber tof w7da ecran kemel*/
+    background-size: cover;
+}
+.gg {
+    padding-left: 500px;
+    padding-right:500px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    display: inline;
+   
+}
+h1{
+    color: rgb(55, 56, 55);
+    font-style: serif;
+}
+.texte2 {
+    color: red;
+    border-style: double;
+    border-color: rgb(255, 0, 0);
+    padding: 30px;
+    margin: 10px;
+}
+.texte1 {
+    color: teal;
+    font-style: oblique;
+}
+.aa {
+    color: tomato;
+    font-size: x-large;
+}
+.h1p1 {
+    color: teal ;
+  font-size: x-large;
+}
+.mm {
+    color: red;
+}
+.qq  {
+    color: rgb(7, 5, 5) 
+}
+.nn {
+    padding-left:500 ;
+    padding-right:  650px; ;
+}
+.kl {
+    color: red;
+}
+.WV {
+ padding-left: 500px;
+ padding-right: 500px;
+}
+.img {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.webb {
+    color: rgb(0, 0, 0);
+}
+.lm {
+    color: rgb(2, 2, 2);
+    padding-bottom: 50px;
+    padding-left: 50px;
+    font-size: x-large;
+}
+.wx {
+    color: red;
+    border-style: double;
+    border-color: rgb(255, 0, 0);
+    padding: 20px;
+    margin: 10px;
+}
+.nj {
+    color: red;
+}
+.bvb {
+    color: red;
+}
+.fcb {
+    color: red;
+}
+.rmd {
+    color: red;
+}
+.igg {
+    color: red;
+}
+.i7 {
+    color: rgb(41, 39, 30);
+    font-size: larger;
+}
+.hjk {
+    color: rgb(49, 47, 36);
+    font-size: larger;
+}
+.ios {
+    color: indigo;
+}
